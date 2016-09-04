@@ -1,3 +1,5 @@
 # assets
 
-streetmix assets like logos and stuff, this is about to become a [monorepo](https://github.com/babel/babel/blob/master/doc/design/monorepo.md) of sorts
+streetmix assets like logos and stuff that may be used around the streetmix ecosystem. consider this a [monorepo](https://github.com/babel/babel/blob/master/doc/design/monorepo.md) of sorts.
+
+the `master` branch is hosted via github pages automatically, so files can be accessed like so: https://streetmix.github.io/assets/logos/streetmix-logo-880x280.png for example
